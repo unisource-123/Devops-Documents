@@ -1,6 +1,4 @@
-Here's your content formatted in Markdown (`.md`) as requested:
 
-````markdown
 # Multi-Node Kubernetes Cluster Setup Using Kubeadm - Notes
 ---
 
