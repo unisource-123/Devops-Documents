@@ -66,7 +66,7 @@ eksctl create cluster --name shaif-cluster --region ap-south-1 --node-type t2.me
 # delete cluster
 
 ~~~
-eksctl delete cluster --name shaifcluster --region ap-south-1
+eksctl delete cluster --name shaif-cluster --region ap-south-1
 ~~~
 
 
