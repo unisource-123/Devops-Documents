@@ -178,7 +178,4 @@ sudo kubeadm join <MASTER_IP>:<PORT> --token <TOKEN> --discovery-token-ca-cert-h
 
 ---
 
-```
 
-Let me know if you'd like this as a downloadable `.md` file.
-```
